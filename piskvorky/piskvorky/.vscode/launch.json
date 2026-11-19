@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
       {
-        "name": "C#: MonoGameProject3 Debug",
+        "name": "C#: piskvorky Debug",
         "type": "dotnet",
         "request": "launch",
-        "projectPath": "${workspaceFolder}/MonoGameProject3.csproj"
+        "projectPath": "${workspaceFolder}/piskvorky.csproj"
       }
     ],
   }
