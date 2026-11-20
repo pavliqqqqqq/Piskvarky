@@ -10,7 +10,6 @@
 *.userosscache
 *.sln.docstates
 *.env
-*.DS_Store
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -426,3 +425,18 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# macOS
+*.DS_Store
+.DS_Store
+**/.DS_Store
+
+# JetBrains IDEs (Rider, IntelliJ IDEA)
+.idea/
+**/.idea/
+*.iml
+
+# Executables and build output
+*.exe
+[Bb]in/
+[Oo]bj/
